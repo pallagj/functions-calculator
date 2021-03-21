@@ -24,7 +24,6 @@ You can create your own `variable` with `=` operator.
 |:---- | --------------------------- |
 | pi   | π = 3.14159265359           |
 | e    | e = 2.71828182846           |
-| ---- | --------------------------- |
 | Ans  | Previously calculated value |
 
 
