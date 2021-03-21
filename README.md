@@ -29,6 +29,16 @@ You can create your own `variable` with `=` operator.
 
 ## Functions
 
+You can crate you own functions with `=` operator. Any number of parameters can be used.
+
+**Example:**
+```
+: g(x, y, z) = sqrt(x-sin(y)) - z
+: h(z) = g(z, 3, 8)
+: h(1)
+>> -7.07324221506
+```
+
 ### Built-in functions
 Available functions:
  - `sin(x)`, `cos(x)`, `tan(x)`
