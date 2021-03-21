@@ -53,8 +53,9 @@ Available functions:
 
 
 ## Commands
-| Name | Description |
-|:---- |:----------- |
+| Name      | Description               |
+|:--------- |:------------------------- |
+| cls       | clear console             |
 | mode: rad | calculation set to radian |
 | mode: deg | calculation set to deg    |
 | help      | help for this program     |
