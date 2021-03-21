@@ -31,12 +31,6 @@ void consol(){
 
 void test(){
     std::istringstream stream(
-        //Test
-     //   "sin(0)\n"
-     //   "ln(e)\n"
-     //   "1+(3*5-lg(100))\n"
-     //   "sqrt(pow(3,2)+pow(4,2))\n"
-     //   "2*pi-1/20\n"
         "3*2+5\n"
         "ans+1\n"
         //Test variables
@@ -74,7 +68,7 @@ void test(){
 
 int main(){
 
-    //A beépített függvények használatához szükséges az inicializálás
+    //A beÃ©pÃ­tett fÃ¼ggvÃ©nyek hasznÃ¡latÃ¡hoz szÃ¼ksÃ©ges az inicializÃ¡lÃ¡s
     Calculator::init();
 
     //test();
